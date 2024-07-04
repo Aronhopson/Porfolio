@@ -1,0 +1,20 @@
+[
+  {
+    "title": "ComplyTrack: Comprehensive Compliance Tracking System",
+    "imageSrc": "projects/project.png",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.turbocomply.com/"
+  },
+  {
+    "title": "Roamhome: Enhancing User Experience for Marketing and Housekeeping Services",
+    "imageSrc": "projects/project.png",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.roamhome.in/"
+  },
+  {
+    "title": "Zethic Custom Web Applications: Innovating Scalable Solutions",
+    "imageSrc": "projects/project.png",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://zethic.com/"
+  }
+]

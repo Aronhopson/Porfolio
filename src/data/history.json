@@ -1,0 +1,35 @@
+[
+  {
+    "role": "Software Engineer | Full stack Web Developer",
+    "organisation": "TurboComply, Handhold Technologies",
+    "location": "Bangalore, Karnataka, India",
+    "startDate": "September 2020",
+    "endDate": "November 2022",
+    "experiences": [
+      "Orchestrated full-stack development of a compliance tracking website, enhancing efficiency through intuitive UI, robust backend, and seamless database integration.",
+      "Headed a team in optimizing database performance, achieving a significant 30% reduction in data retrieval times, showcasing technical expertise and leadership."
+    ]
+  },
+  {
+    "role": "Software Engineer | Frontend Web Developer",
+    "organisation": "Roamhome, Pvt Ltd",
+    "location": "South Goa, Goa, India",
+    "startDate": "January 2020",
+    "endDate": "July 2020",
+    "experiences": [
+      "Pioneered the development of an innovative front-end website for Roamhome, specializing in marketing and housekeeping services, resulting in an enhanced user experience.",
+      "Orchestrated the end-to-end development of the website, from concept to deployment, delivering a user-friendly platform that increased customer engagement by 20%."
+    ]
+  },
+  {
+    "role": "Frontend Web Developer",
+    "organisation": "Zethic Technologies LLP",
+    "location": "Bangalore, Karnataka, India",
+    "startDate": "September 2019",
+    "endDate": "January 2020",
+    "experiences": [
+      "Spearheaded the development of custom web applications, bringing innovation and scalability to meet diverse company requirements.",
+      "Engaged with highly talented designers and developers, actively contributing to theme-based excellence in our progressive web applications."
+    ]
+  }
+]

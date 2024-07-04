@@ -1,0 +1,75 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "GraphQL",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Django",
+    "imageSrc": "skills/django.webp"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/js.jpeg"
+  },
+  {
+    "title": "Git/GitHub",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "Redux",
+    "imageSrc": "skills/redux.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sqll.png"
+  },
+  
+  {
+    "title": "Express.js",
+    "imageSrc": "skills/express.png"
+  }, 
+  {
+    "title": "API Design",
+    "imageSrc": "skills/API.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/MYSQL.png"
+  },
+  {
+    "title": "Matlab",
+    "imageSrc": "skills/MATLAB.jpeg"
+  },
+  {
+    "title": "Tableau",
+    "imageSrc": "skills/TABLUE.jpeg"
+  },
+  {
+    "title": "Cloud Computing (AWS)",
+    "imageSrc": "skills/AWS.webp"
+  }
+]
